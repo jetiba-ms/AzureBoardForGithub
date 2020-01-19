@@ -15,7 +15,7 @@ namespace AzureBoardForGithub
         {
             Console.WriteLine("Hello World, it's " + DateTime.UtcNow.ToString("MM/dd/yyyy hh:mm:ss"));
 
-            Bitmap image = GetBitmapFromUrl("https://www.wearenerd.it/3067-superlarge_default/asciugamano-disney-mickey-mouse-90-anniversario-130x130cm.jpg");
+            Bitmap image = GetBitmapFromUrl("https://www.vaisulweb.com/wp-content/uploads/2019/02/azure_logo_794_new.png");
 
 			string ascii = ConvertImageToAsciiArt(image);
 			Console.Write(ascii);
