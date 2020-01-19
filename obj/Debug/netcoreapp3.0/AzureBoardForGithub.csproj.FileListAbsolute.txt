@@ -1,0 +1,11 @@
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.exe
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.deps.json
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.runtimeconfig.json
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.runtimeconfig.dev.json
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.dll
+C:\development\AzureBoardForGithub\bin\Debug\netcoreapp3.0\AzureBoardForGithub.pdb
+C:\development\AzureBoardForGithub\obj\Debug\netcoreapp3.0\AzureBoardForGithub.csprojAssemblyReference.cache
+C:\development\AzureBoardForGithub\obj\Debug\netcoreapp3.0\AzureBoardForGithub.AssemblyInfoInputs.cache
+C:\development\AzureBoardForGithub\obj\Debug\netcoreapp3.0\AzureBoardForGithub.AssemblyInfo.cs
+C:\development\AzureBoardForGithub\obj\Debug\netcoreapp3.0\AzureBoardForGithub.dll
+C:\development\AzureBoardForGithub\obj\Debug\netcoreapp3.0\AzureBoardForGithub.pdb
