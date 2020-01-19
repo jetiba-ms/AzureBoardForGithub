@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: workflows/checkout@v1
     - name: Setup .NET Core
-      uses: actions/setup-dotnet@v1
+      uses: workflows/setup-dotnet@v1
       with:
         dotnet-version: 2.2.108
     - name: Build with dotnet
